@@ -1,16 +1,6 @@
 # career_opt
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sceenshots
+![Screenshot_2023-03-09-15-20-09-548_com example career_opt](https://user-images.githubusercontent.com/126271975/236777883-cdaf7586-8f39-4a5f-8fe3-375b42c5fa23.jpg)
+![Screenshot_2023-03-09-15-20-12-544_com example career_opt](https://user-images.githubusercontent.com/126271975/236777895-bf63b2ed-f857-4bdf-aa4f-6bcf9481c4bd.jpg)
+![Screenshot_2023-03-09-15-20-32-766_com example career_opt](https://user-images.githubusercontent.com/126271975/236777898-fa00ddbc-236d-4b25-9286-558c176fb2c7.jpg)
